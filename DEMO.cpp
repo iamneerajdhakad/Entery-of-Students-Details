@@ -21,7 +21,7 @@ class student
         cin>>rollno;
         cout<<"\n Total marks out of 50:";
         cin>>total;
-        perc=(float)total/500*100;
+        perc=(float)total/50*100;
         }
 
         void student::putdata(void)
